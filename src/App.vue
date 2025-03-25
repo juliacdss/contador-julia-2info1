@@ -14,7 +14,7 @@ function decrementar() {
 </script>
 
 <template>
-  <h1>Meu contador</h1>
+  <h1>Meu contador - 2INFO1</h1>
   <p>Valor do contador: {{ contador }}</p>
   <button v-on:click="incrementar">+</button>
   <button @click="decrementar">-</button>
